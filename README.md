@@ -1,1 +1,1 @@
-# Migration_Research
+The goal of this research through the Center for Research Computing at Notre Dame was to build a computational model of the economic incentives of global migration using Python. I am cited in the final paper that was published in the _Journal of Computational Social Sciences_. I have included the publication which gives a thorough outline of the modeling framework, the central mathematical model, the interpretation of the results, and model validation. However, I cannot publish the specific code used for the project for privacy reasons.
